@@ -1,0 +1,32 @@
+# Maven build folder
+/target/
+
+# Spring Boot log files
+*.log
+
+# Eclipse & STS
+/.settings/
+/*.tmp
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables & overrides
+.env
+
+# Docker overrides
+docker-compose.override.yml
+
+# Local notes folder (if you have one called "notes")
+notes/
+
+# Node (in case you ever add frontend code here)
+/node_modules/
